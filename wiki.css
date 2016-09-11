@@ -1,0 +1,48 @@
+body {
+    background-color: #ffffff;
+    color: black;
+    font-family: Muli;
+}
+
+h1 {
+    color: #ff8900;
+}
+
+#searchBox {
+    margin-top: 30px;
+    max-width: 600px;
+    padding: 30px;
+}
+
+.searchBoxes {
+    padding: 20px;
+}
+
+.search-wiki {
+    height: 100px;
+}
+
+ul > li {
+    font-family: Tahoma;
+    font-size: 13px;
+    list-style: none;
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+    border-width: 5px;
+    border-color: #e5e5e5;
+    border-style: solid;
+    margin-left: -40px;
+}
+
+ul>li>a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+footer {
+    margin-bottom: 10px;
+}
+
